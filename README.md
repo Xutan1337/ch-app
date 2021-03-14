@@ -16,6 +16,6 @@ Building the production version
 yarn package
 ```
 
-You will find the production version in app/out app/out
+You will find the production version in app/out directory.
 
 Original repo: https://github.com/chinfeng/ch-app/ I'm only doing small contribution.
